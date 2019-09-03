@@ -1,6 +1,6 @@
 # SO-UNLaM
 TPs de SO 
-
+ aca hay algo nuevo<
 ### Link para instalar Framework NET Core en Linux¨
 [https://www.swhosting.com/blog/como-instalar-net-core-facilmente-en-linux/]
 
